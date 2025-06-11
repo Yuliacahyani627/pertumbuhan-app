@@ -1,3 +1,5 @@
-stremlit
+streamlit
 numpy
 matplotlib
+scipy
+sympy
